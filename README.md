@@ -10,7 +10,7 @@
 This project was done for the class of Lenguajes de Programacion II & Diseño de Bases de Datos I, it's still a work in progress and is my first time using Java Swing so be prepared for any spaghetti code you might find.
 * By: Jesus Alejandro Jimenez Hernandez
 * Number: 338906
-* Univerity: Universidad Autonoma de Chihuahua
+* University: Universidad Autonoma de Chihuahua
 * Date: Wednesday 1st December 2021
 * Done using Netbeans and JDK8 
 * Database implemented using the Dcoker Image Oracle Database 12C Express Edition
