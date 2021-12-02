@@ -23,7 +23,7 @@ First of all, this project was done using Netbeans
 You can download Netbeans in the following link: https://netbeans.apache.org/download/index.html
 
 ### Linux
-I don't really like using Snaps in Linux but it was the easier way to get it running in Manjaro.
+I don't really like using Snaps in Linux but it was the easiest way to get it running in Manjaro.
 #### Manjaro
 Check that Manjaro is up to date.
 ```
