@@ -1,4 +1,4 @@
-# Proyecto de Lenguajes de Programacion II y Diseño de Bases de Datos I
+# Proyecto de Lenguajes de Programacion III y Diseño de Bases de Datos I
 * [General info](#general-info)
 * [Instructions](#instructions)
 * [Code progress](#code-progress)
@@ -14,6 +14,8 @@ This project was done for the class of Lenguajes de Programacion II & Diseño de
 * Date: Wednesday 1st December 2021
 * Done using Netbeans and JDK8 
 * Database implemented using the Dcoker Image Oracle Database 12C Express Edition
+
+![alt text](https://github.com/a338906/Proyecto-Car-Rental/blob/main/CarRental/CarRental.png)
 
 # Instructions
 In order for you to run the build its goind to be necesary that you configure a few things.
