@@ -61,7 +61,7 @@ At this moment the project has already been due to each class and since its the 
 Updates to this code are goind to be done at a lower rate since I'm on winter vacations. Still, I'm not going to leave this project undone, you can check in #Code-Progress to see more information about this project.
 
 ## Sources
-# GitHub Repository of Dj-Raven
+## GitHub Repository of Dj-Raven
 * https://github.com/DJ-Raven
 
 ## YouTube Channel of Ra Ven
