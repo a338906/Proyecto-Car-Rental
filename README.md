@@ -64,10 +64,10 @@ Updates to this code are goind to be done at a lower rate since I'm on winter va
 # GitHub Repository of Dj-Raven
 * https://github.com/DJ-Raven
 
-# YouTube Channel of Ra Ven
+## YouTube Channel of Ra Ven
 * https://www.youtube.com/c/HelloWorld-Raven/featured
 
-# YouTube Videos that show the process of the GUI designs
+## YouTube Videos that show the process of the GUI designs
 
 Java Swing UI Design - Login Form
 * Part 1: https://www.youtube.com/watch?v=7Rc9JaflteE
