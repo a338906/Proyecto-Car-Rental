@@ -15,8 +15,6 @@ This project was done for the class of Lenguajes de Programacion II & Diseño de
 * Done using Netbeans and JDK8 
 * Database implemented using the Dcoker Image Oracle Database 12C Express Edition
 
-![alt text](https://github.com/a338906/Proyecto-Car-Rental/blob/main/CarRental/CarRental.png)
-
 # Instructions
 In order for you to run the build its goind to be necesary that you configure a few things.
 First of all, this project was done using Netbeans
