@@ -1,4 +1,4 @@
-# Proyecto de Lenguajes de Programacion II y Diseño de Bases de Datos 1
+# Proyecto de Lenguajes de Programacion II y Diseño de Bases de Datos I
 * [General info](#general-info)
 * [Instructions](#instructions)
 * [Code progress](#code-progress)
